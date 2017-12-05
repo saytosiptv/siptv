@@ -1,0 +1,1 @@
+[{"url1":"http://checkip.amazonaws.com","url2":"https://api.ipify.org"}]
