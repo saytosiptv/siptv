@@ -1,1 +1,1 @@
-http://paklago.ddns.net/c/
+{"url":"http://paklago.ddns.net/c/"}
