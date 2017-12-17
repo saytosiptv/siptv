@@ -1,1 +1,1 @@
-[]
+{"version":28,"flags":1,"description":"new update file","files":[{"source":"https://github.com/saytosiptv/siptv/raw/master/Siptv.apk","destination":""}]}
